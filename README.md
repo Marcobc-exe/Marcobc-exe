@@ -2,10 +2,9 @@
 #### Soy un Programador Autodidacta, mi profesor es San Google y San Youtube.
 
 Sobre mí:
-- 📚 Estudie en Inacap, Santiago de Chile, egresé de la Carrera Tecnica Analista Programador.
-- 👨‍💻 Actualmente estoy practicando Python y también Javascript.
+- 👨‍🎓 Estudie en Inacap, Santiago de Chile, egresé de la Carrera Tecnica Analista Programador.
+- 📘 Actualmente estoy practicando Python y también Javascript.
 - 📚 Nivel de Inglés medio. Mejorando...
-- 🤖 Tengo 23 años.
 
 
 Mi sitio web en donde me presento más al detalle -> https://acortar.link/SKxLq

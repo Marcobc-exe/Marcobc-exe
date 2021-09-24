@@ -1,12 +1,11 @@
 ## Hola qué tal? 👋, Soy Marco Bravo! 
-#### Soy un Programador Autodidacta, mi profesor es San Google y San Youtube.
 
 Sobre mí:
 - 🌆 Vivo en Santiago de Chile.
 - ✌️ Tengo 23 años.
 - 👨‍🎓 Estudie en Inacap, Santiago de Chile, egresé de la Carrera Tecnica Analista Programador.
 - 📘 Actualmente estoy practicando con React js y Javascript.
-- 📚 Nivel de Inglés medio. Mejorando...
+- 📚 Nivel de Inglés medio.
 
 
 Mi sitio web en donde me presento más al detalle -> https://acortar.link/SKxLq

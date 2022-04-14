@@ -2,7 +2,7 @@
 
 Sobre mí:
 - 🌆 Vivo en Santiago de Chile.
-- ✌️ Tengo 23 años.
+- ✌️ Tengo 24 años.
 - 👨‍🎓 Estudie en Inacap, Santiago de Chile, egresé de la Carrera Tecnica Analista Programador.
 - 📘 Actualmente estoy practicando con React js, Javascript y Python.
 - 📚 Nivel de Inglés medio.

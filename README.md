@@ -5,7 +5,7 @@ About me:
 - ✌️ I've 24 yr old.
 - 👨‍🎓 Currently I work like Java Software Developer Junior.
 - 🔥 I practice with Javascript and Python.
-- 🇳🇿 Medium lvl English.
+- 📘 Medium lvl English.
 
 
 ## Mains Skills: 

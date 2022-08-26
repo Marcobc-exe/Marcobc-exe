@@ -4,7 +4,7 @@ About me:
 - 🌆 I live in Santiago of Chile.
 - ✌️ I've 24 yr old.
 - 👨‍🎓 Currently I work like Java Software Developer Junior.
-- 🔥 I practice with Javascript.
+- 🔥 I practice with Javascript Vanilla, React js and Python.
 - 📘 Medium lvl English.
 - 🍏 I'm a friendly, responsible guy who likes to communicate openly with the team.
 

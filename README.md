@@ -1,11 +1,10 @@
 ## Hello everybody 👋, I'm Marco Bravo! 
 
 About me:
-- 🌆 I live in Santiago of Chile.
+- 🇨🇱 I live in Santiago of Chile.
 - ✌️ I've 25 years old.
-- 🔥 I'm working as React developer, also I create proyect with Node js, React.js, MySQL, and Python.
-- 📘 Medium English level.
-- 🍏 I'm a friendly, responsible guy who likes to communicate openly with the team.
+- 🔥 React Developer Semi-Senior.
+- 📘 Medium English level(B1+).
 
 ## Programming Language:
 <img src='https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667' alt='JavaScript' height='50'> <img src='https://camo.githubusercontent.com/ff660f3b34106793e1a8008592156f3127d8465adc82e103b9f2e0ce012c70ec/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747970657363726970742e737667' alt='TypeScript' height='50'>

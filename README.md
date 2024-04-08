@@ -2,7 +2,7 @@
 
 About me:
 - 🇨🇱 I live in Santiago of Chile.
-- ✌️ I've 25 years old.
+- ✌️ I've 26 years old.
 - 🔥 React Developer Semi-Senior.
 - 📘 Medium English level(B1+).
 

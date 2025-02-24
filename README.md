@@ -3,7 +3,7 @@
 With over 2 years of experience as a Front-End Developer in React.js, React Native, and TypeScript.
 - 🇨🇱 I live in Santiago, Chile.
 - ✌️ I'm 27 years old.
-- 🔥 React Developer Semi-Senior.
+- 🔥 Semi-Senior React Developer.
 - 🇪🇦 Native Spanish speaker.
 - 📘 Medium English level(B1+).
 

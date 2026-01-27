@@ -1,6 +1,6 @@
 ## Hello everybody 👋, I'm Marco Bravo! 
 
-With over 5 years of experience as a Front-End Developer in React.js, React Native, and TypeScript.
+With over 2 years of experience as a Front-End Developer in React.js, React Native, and TypeScript.
 -  I live in Calgary, AB.
 - ✌️ I'm 27 years old.
 - 🔥 React Frontend Developer.

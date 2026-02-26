@@ -1,11 +1,9 @@
-## Hello everybody 👋, I'm Marco Bravo! 
+## Hello everyone 👋, I'm Marco Bravo! 
 
 With over 2 years of experience as a Front-End Developer in React.js, React Native, and TypeScript.
 -  I live in Calgary, AB.
-- ✌️ I'm 27 years old.
-- 🔥 React Frontend Developer.
-- 🇪🇦 Native Spanish speaker.
-- 📘 Proficient in English (B2 level).
+- ✌️ I'm 28 years old.
+- 🔥 Frontend Developer.
 
 ## Programming Language:
 <img src='https://camo.githubusercontent.com/5a5f5779919b90579d121551d0521cda87c06534a0218a2f21883c438daf6cc1/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667' alt='JavaScript' height='50'> <img src='https://camo.githubusercontent.com/1619d648887039b5425c9c2675fc11155a7acb4d68f5789fcbb645eae1f1ed17/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747970657363726970742e737667' alt='TypeScript' height='50'>
